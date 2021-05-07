@@ -38,7 +38,7 @@
 <img width="526" alt="image" src="https://user-images.githubusercontent.com/55007360/117426787-e2ad7980-af56-11eb-9a52-ef4e072a1d78.png">
 找到https://www.wanweibaike.com/wiki/ 之后的字样，本例中是Category-第二次世界大战中的欧洲，将该字符串作为scrappy的参数传入，并指定搜索深度即可。
 
-###输出：
+### 输出：
 在neo4j里就能看到生成的知识图谱,如下：
 <img width="1042" alt="image" src="https://user-images.githubusercontent.com/55007360/117439423-6706f900-af65-11eb-837e-cae8d769d16f.png">
 
